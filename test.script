@@ -1,0 +1,5 @@
+now
+echo get http://www.baidu.com
+get http://www.baidu.com
+sleep 1 s
+now
